@@ -1,0 +1,10 @@
+{
+  "references": [
+    {
+      "name": "Intracardiac EP Study",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK560784/",
+      "category": "Intracardiac EP Study",
+      "notes": "An incredibly dense, textbook-style clinical reference page hosted by the National Center for Biotechnology Information (NCBI). It covers technical terminology, unipolar vs. bipolar signal interpretation, catheter placement mechanics, and precise interval analysis (such as AH and HV intervals)."
+    }
+  ]
+}
