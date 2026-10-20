@@ -1,2 +1,2 @@
-# Great-EP-Skills-for-AI
-A collection of Cardiac electrophysiology (EP) skills for an AI
+# RSkll
+A collection of AI skills I, (Ravi Dave), created.
